@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://깃허브아이디.github.io/sitemap.xml

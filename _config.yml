@@ -1,0 +1,11 @@
+# 사이트 기본 설정 — 따옴표 안의 값을 본인 정보로 바꾸세요
+title: "김한신 홈페이지"
+description: "어지럼(이석증, 전정신경염)을 쉽게 설명하는 의학 지식 사이트"
+lang: ko
+# 주소: 처음에는 https://깃허브아이디.github.io, 도메인 연결 후 https://내도메인.com 으로 변경
+url: "https://깃허브아이디.github.io"
+author: "김한신"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: pretty
